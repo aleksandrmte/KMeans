@@ -1,0 +1,5 @@
+/.vs
+/KMeans.Core/obj
+/KMeans.Core/bin
+/KMeans.Demo/obj
+/KMeans.Demo/bin
